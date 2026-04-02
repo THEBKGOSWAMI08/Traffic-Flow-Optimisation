@@ -107,12 +107,4 @@ Traffic_Flow_Optimization/
 *   **Edge Deployment**: Optimize for running on Raspberry Pi/Jetson Nano.
 
 ---
-
-## 👨‍💻 Author
-**Gaurav**
-*   B.Tech (3rd Year)
-*   [GitHub Profile](https://github.com/Gaurav-Chaudhary04)
-*   [LinkedIn](https://www.linkedin.com/in/gaurav-chaudhary-profile/)
-
----
 *Built with ❤️ for the Future of Smart Mobility.*
